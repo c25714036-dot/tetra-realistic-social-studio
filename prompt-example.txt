@@ -1,0 +1,12 @@
+
+=== POSITIVE PROMPT ===
+
+photorealistic editorial photography, authentic Brazilian professional, natural facial proportions, realistic skin texture, physically plausible hands, believable posture, candid moment, realistic hair and textiles, premium but believable environment, no text, no logo, premium corporate editorial photography, humanized and natural, Brazilian professionals and entrepreneurs, authentic facial features, natural diversity, soft cinematic corporate lighting, realistic skin tones, controlled contrast, 35mm or 50mm editorial photography, natural depth of field, subject offset to preserve negative space for social-media typography, Brazilian small-business owner inside a real local shop, authentic merchandise, warm practical lighting, subtle navy visual influence, approachable and competent
+
+=== NEGATIVE PROMPT ===
+
+CGI, 3D render, synthetic skin, wax skin, over-retouched face, uncanny eyes, extra fingers, malformed hands, fake smile, neon holograms, cyberpunk, floating charts, random text, watermark, logo, stock-photo cliché, futuristic holograms, plastic skin, over-retouched face, generic stock-photo pose, AI-looking hands, text inside generated image, logos inside generated image, excessive financial numbers, neon cyberpunk aesthetics
+
+=== FORMAT ===
+
+4x5: 1024x1280 — Instagram feed / Meta Ads

@@ -1,0 +1,41 @@
+{
+  "name": "Tetra Capital",
+  "brand": {
+    "navy": "#0e2538",
+    "gold": "#d7b46a",
+    "cream": "#fcf6ec"
+  },
+  "defaultFormat": "4x5",
+  "photography": {
+    "style": "premium corporate editorial photography, humanized and natural",
+    "people": "Brazilian professionals and entrepreneurs, authentic facial features, natural diversity",
+    "lighting": "soft cinematic corporate lighting, realistic skin tones, controlled contrast",
+    "lens": "35mm or 50mm editorial photography, natural depth of field",
+    "composition": "subject offset to preserve negative space for social-media typography",
+    "avoid": [
+      "futuristic holograms",
+      "plastic skin",
+      "over-retouched face",
+      "generic stock-photo pose",
+      "AI-looking hands",
+      "text inside generated image",
+      "logos inside generated image",
+      "excessive financial numbers",
+      "neon cyberpunk aesthetics"
+    ]
+  },
+  "formats": {
+    "4x5": {"width": 1024, "height": 1280, "usage": "Instagram feed / Meta Ads"},
+    "9x16": {"width": 1024, "height": 1792, "usage": "Stories / Reels / Shorts"},
+    "1x1": {"width": 1024, "height": 1024, "usage": "Square post"}
+  },
+  "scenes": {
+    "comercio-local": "Brazilian small-business owner inside a real local shop, authentic merchandise, warm practical lighting, subtle navy visual influence, approachable and competent",
+    "reuniao-consultiva": "Brazilian financial consultant and business owner in a realistic meeting, documents and laptop on table, analytical but human interaction",
+    "analise-financeira": "Brazilian executive reviewing printed financial documents and charts in a premium but believable office, thoughtful expression",
+    "celular": "Brazilian entrepreneur naturally using a smartphone in a real workplace, candid editorial photography",
+    "industria": "Brazilian industrial business owner or manager in a clean operational environment, realistic PPE where appropriate, premium documentary photography",
+    "saude": "Brazilian healthcare business owner or administrator in a professional clinic environment, institutional and trustworthy",
+    "alimentacao": "Brazilian restaurant, bakery, market or food-business owner in an authentic commercial environment, warm and natural"
+  }
+}

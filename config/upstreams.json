@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "projects": [
+    {
+      "id": "comfyui",
+      "name": "ComfyUI",
+      "repo": "https://github.com/Comfy-Org/ComfyUI.git",
+      "role": "core-engine",
+      "tier": "core",
+      "license": "GPL-3.0",
+      "autoClone": true
+    },
+    {
+      "id": "flux2",
+      "name": "FLUX.2",
+      "repo": "https://github.com/black-forest-labs/flux2.git",
+      "role": "model-reference",
+      "tier": "core",
+      "license": "Apache-2.0",
+      "autoClone": true
+    },
+    {
+      "id": "photoshoot",
+      "name": "ComfyUI-Photoshoot",
+      "repo": "https://github.com/ralksta/ComfyUI-Photoshoot.git",
+      "role": "consistent-photoshoot",
+      "tier": "core",
+      "license": "MIT",
+      "autoClone": true
+    },
+    {
+      "id": "instantid",
+      "name": "InstantID",
+      "repo": "https://github.com/instantX-research/InstantID.git",
+      "role": "identity-preservation",
+      "tier": "core",
+      "license": "Apache-2.0",
+      "autoClone": true
+    },
+    {
+      "id": "photomaker",
+      "name": "PhotoMaker",
+      "repo": "https://github.com/TencentARC/PhotoMaker.git",
+      "role": "multi-reference-identity",
+      "tier": "creator",
+      "license": "NOASSERTION",
+      "autoClone": false
+    },
+    {
+      "id": "fooocus",
+      "name": "Fooocus",
+      "repo": "https://github.com/lllyasviel/Fooocus.git",
+      "role": "simple-generator",
+      "tier": "creator",
+      "license": "GPL-3.0",
+      "autoClone": true
+    },
+    {
+      "id": "zakaru",
+      "name": "Zakaru AI Image Generator",
+      "repo": "https://github.com/Zakaru-Studio/ai-image-generator.git",
+      "role": "portrait-finishing-reference",
+      "tier": "creator",
+      "license": "Apache-2.0",
+      "autoClone": true
+    },
+    {
+      "id": "vicii",
+      "name": "Vicii Influencer HyperRealism",
+      "repo": "https://github.com/alexgar4-afk/Vicii_Influencer_HyperRealism_1.0.git",
+      "role": "smartphone-ugc-hyperrealism",
+      "tier": "research",
+      "license": "UNDECLARED",
+      "autoClone": false
+    },
+    {
+      "id": "ecom",
+      "name": "AI Ecom Brand Pipeline reference",
+      "repo": "https://github.com/odhasu/comfyui.git",
+      "role": "brand-lifestyle-reference",
+      "tier": "research",
+      "license": "UNDECLARED",
+      "autoClone": false
+    }
+  ]
+}
